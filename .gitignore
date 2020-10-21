@@ -2,3 +2,5 @@ lib/
 include/
 bin/
 pyvenv.cfg
+.idea/
+.DS_STORE/
