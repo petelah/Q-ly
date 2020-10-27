@@ -26,10 +26,24 @@ http://127.0.0.1:5000 which will only be viewable from your local machine.
 
 ### Development
 
-##### CI/CD Pipeline
+#### CI/CD Pipeline
 The pipeline constructed will push to a github test instance running Ubuntu latest, 
 run tests and if passed it will push up to EC2 for production installation.
 
 You will get an email notification once all production is complete and running 
 without errors.
 
+
+#### Wireframes
+![Login/First Screen](docs/wireframes/Login_first launch.png)
+![Signup Screen](docs/wireframes/Signup.png)
+![Main Screen](docs/wireframes/Main.png)
+![Add Screen](docs/wireframes/Add.png)
+![Delete Screen](docs/wireframes/Delete.png)
+![Notes Screen](docs/wireframes/Notes.png)
+![Admin Screen](docs/wireframes/Profile_Admin.png)
+
+
+#### Workflow
+
+Add flowchart here.
