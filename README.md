@@ -35,7 +35,7 @@ without errors.
 
 
 #### Wireframes
-![Login/First Screen](docs/wireframes/Login_first launch.png)
+![Login/First Screen](docs/wireframes/Login_first_launch.png)
 ![Signup Screen](docs/wireframes/Signup.png)
 ![Main Screen](docs/wireframes/Main.png)
 ![Add Screen](docs/wireframes/Add.png)
