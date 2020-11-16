@@ -42,8 +42,10 @@ without errors.
 ![Delete Screen](docs/wireframes/Delete.png)
 ![Notes Screen](docs/wireframes/Notes.png)
 ![Admin Screen](docs/wireframes/Profile_Admin.png)
+![DB Structure](docs/wireframes/db.png)
+
 
 
 #### Workflow
 
-Add flowchart here.
+![Flow Chart](docs/wireframes/Flow_Chart.png)
